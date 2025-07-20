@@ -6,3 +6,4 @@ node()
 	  currentBuild.result = 'SUCCESS'
   }
 }
+
